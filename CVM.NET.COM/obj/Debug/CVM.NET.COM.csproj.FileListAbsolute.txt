@@ -1,0 +1,11 @@
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\bin\Debug\CVM.NET.COM.exe.config
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\bin\Debug\CVM.NET.COM.exe
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\bin\Debug\CVM.NET.COM.pdb
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.csproj.AssemblyReference.cache
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.exe
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.pdb
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agust\source\repos\CVM.NET.COM\CVM.NET.COM\obj\Debug\CVM.NET.COM.csproj.CopyComplete
